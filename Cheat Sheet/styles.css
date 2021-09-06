@@ -1,0 +1,59 @@
+body {
+    background-image: url(./images/cool-background.png);
+    background-color: black;
+    color: #F1F1F1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.code   {
+    font-family: monospace, sans-serif;
+}
+
+p {
+    font-style: italic;
+    font-size: 75%;
+}
+
+table {
+    height: 40%;
+    left: 10%;
+    margin: 0px auto;
+    overflow-y: scroll;
+    position: static;
+    border: 2px solid #2DE620;
+    width: 650px;
+    text-align: center;
+}
+
+h1, h2, p {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.banner {
+    background-image: url(./images/andy-holmes-rCbdp8VCYhQ-unsplash.jpg);
+    background-size: 100% auto;
+}
+
+h1 {
+    text-shadow: 2px 2px 5px chartreuse;
+    text-align: center;
+    padding: 25px;
+}
+
+td {
+    border-top: 1px solid #2DE620;
+}
+
+th { 
+    background-color: dimgrey;
+}
+
+hr {
+    margin-top: 50px;
+    color: fuchsia;
+}
+
+a {
+    color: fuchsia;
+}
